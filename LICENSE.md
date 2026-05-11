@@ -1,4 +1,4 @@
-
+Enhance VMware Fusion for macOS with VMware Fusion for macOS automatic Addon: duplicate-finder & malware-scanner, the #1 addon. Includes duplicate-finder and malware-scanner for a
 
 
 
